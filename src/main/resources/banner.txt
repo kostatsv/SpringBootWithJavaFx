@@ -1,0 +1,7 @@
+  __
+<(o )___
+ ( ._> / quack
+  `---'
+
+${project.description} :: ${project.version}
+Running Spring Boot :: ${spring-boot.version}
